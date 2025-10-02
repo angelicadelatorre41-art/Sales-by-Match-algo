@@ -1,1 +1,1 @@
-# Sales-by-Match-algo
+# Sales-by-Match-algo This program counts how many matching pairs of socks exist in a pile. It groups socks by color, divides each color count by two to find pairs, and returns the total number of pairs.
